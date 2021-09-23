@@ -4,7 +4,8 @@ import './styles/styles.scss'
 
 // import './js/notification'
 
-import './js/weatherWidget'
+// import './js/weatherWidget'
+import './js/class'
 
 // Kahoot 1
 // 3

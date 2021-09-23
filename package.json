@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/CST-education/FE-36-practice-module-13/issues"
   },
-  "homepage": "https://CST-education.github.io/FE-36-practice-module-13",
+  "homepage": "https://gluschenkotoma.github.io/FE-36-practice-module-13",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
