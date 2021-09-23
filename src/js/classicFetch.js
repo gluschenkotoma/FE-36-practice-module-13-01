@@ -1,5 +1,5 @@
 const BASE_URL = `https://api.openweathermap.org/data/2.5/weather`
-const API_KEY = `5c718815509f60d89951c1e42379a22b`
+const API_KEY = `b17a2dddb01d7481fea6373f92c2e546`
 
 class ClassicFetch {
   constructor(baseUrl, apiKey) {
