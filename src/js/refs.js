@@ -1,4 +1,5 @@
 export default {
+  searchContainer: document.querySelector('.search'),
   searchForm: document.getElementById('search-form'), //форма
   widgetContainer: document.querySelector('.weather'), //див виджет
   city: document.querySelector('.city'),
